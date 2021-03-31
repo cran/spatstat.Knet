@@ -1,12 +1,12 @@
-042c4ade752d86e8e3e75360697f697b *DESCRIPTION
+1a133ef9538dddd4e2c7bd3967196fb3 *DESCRIPTION
 893a6df93c7a6475d2cb3bc9a88fe49d *NAMESPACE
 b588437c9f2b8adc47e72b4b833588db *NEWS
 bc132807cbd0aafd3a8e254b238cb0bf *R/First.R
 214c000857910f9cfe6a63b92c8ee9de *R/Knet.R
 133c0509c02d017c45d22360423a5fff *R/Knetinhom.R
-a4290c8db1ec596c01c97ef2d8fba897 *build/partial.rdb
+6c733d35bd2d134e1b90ca47677d8b99 *build/partial.rdb
 dcee02e27ff0902adb32249800bada42 *data/datalist
-fe073ff4d4febc7fc13830ce78e4559b *data/wacrashes.rda
+797fe8e1bcb5ee99dc550323795bc474 *data/wacrashes.rda
 d44197a277515841fc960b0b8c60eb85 *inst/CITATION
 f63bd4caa86d5c1c42e9e1b7e1e205e0 *man/Knet.Rd
 fd1e3c4c361787dc1d332d185720cc3c *man/Knetinhom.Rd
