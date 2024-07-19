@@ -1,13 +1,14 @@
 Package: spatstat.Knet
 Type: Package
 Title: Extension to 'spatstat' for Large Datasets on a Linear Network
-Version: 3.0-2
-Date: 2022-11-12
-Depends: R (>= 3.5.0), spatstat.data (>= 3.0), spatstat.sparse (>=
-        3.0), spatstat.geom (>= 3.0), spatstat.random (>= 3.0),
-        spatstat.explore, spatstat.model, spatstat.linnet (>= 3.0),
-        spatstat (>= 3.0)
-Imports: spatstat.utils (>= 3.0), Matrix
+Version: 3.1-0
+Date: 2024-07-16
+Depends: R (>= 3.5.0), spatstat.data (>= 3.1-0), spatstat.sparse (>=
+        3.1-0), spatstat.univar (>= 3.0-0), spatstat.geom (>= 3.3-0),
+        spatstat.random (>= 3.3-0), spatstat.explore (>= 3.3-0),
+        spatstat.model (>= 3.3-0), spatstat.linnet (>= 3.2-0), spatstat
+        (>= 3.1-1)
+Imports: spatstat.utils (>= 3.0-5), Matrix
 Authors@R: c(person(given="Suman",
 		    family="Rakshit",
 		    role = c("aut", "cph"),
@@ -26,8 +27,8 @@ Description: Extension to the 'spatstat' family of packages, for analysing
 License: GPL (>= 2)
 NeedsCompilation: yes
 ByteCompile: true
-Packaged: 2022-11-12 10:41:46 UTC; adrian
+Packaged: 2024-07-16 01:56:20 UTC; adrian
 Author: Suman Rakshit [aut, cph] (<https://orcid.org/0000-0003-0052-128X>),
   Adrian Baddeley [cre, cph] (<https://orcid.org/0000-0001-9499-8382>)
 Repository: CRAN
-Date/Publication: 2022-11-13 05:40:08 UTC
+Date/Publication: 2024-07-19 09:00:10 UTC
